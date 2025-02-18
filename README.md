@@ -29,7 +29,7 @@ Pieces:
 ## Board Layout
 
 Plain Text Layout:
-
+```
 b-Tor b-Biz b-Sau b-Biz b-Xor
 b-Ram b-Ram [ ] b-Ram b-Ram
 [ ] [ ] b-Ram [ ] [ ]
@@ -38,7 +38,7 @@ b-Ram b-Ram [ ] b-Ram b-Ram
 [ ] [ ] [ ] [ ] [ ]
 r-Ram r-Ram r-Ram r-Ram r-Ram
 r-Xor r-Biz r-Sau r-Biz r-Tor
-
+```
 ## Design Patterns
 
 ### 1. MVC (Mandatory)
@@ -58,7 +58,7 @@ The **Strategy Pattern** is used to define a family of algorithms, allowing a pi
 The **Singleton Pattern** ensures that a class has only one instance, providing a global point of access. In your project, the `KwazamController` follows this pattern to ensure there is only one instance of the controller, which manages the interaction between the model and the view.
 
 ## Folder Structure
-
+```
 .
 │   Main.java
 │   README.md
@@ -120,4 +120,5 @@ The **Singleton Pattern** ensures that a class has only one instance, providing 
     └───Dialog
         │   GameOverDialog.java
         │   QuitDialog.java
+```
 "# KwazamChess-java" 
