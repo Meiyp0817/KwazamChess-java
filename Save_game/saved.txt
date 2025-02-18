@@ -1,0 +1,15 @@
+Kwazam Chess Game - Saved State
+===============================
+Current Player Turn: Blue
+Move Count: 0
+
+Game Board State:
+-----------------
+b-Tor   b-Biz   b-Sau   b-Biz   b-Xor
+b-Ram   b-Ram   b-Ram   b-Ram   b-Ram
+[ ]     [ ]     [ ]     [ ]     [ ]
+[ ]     [ ]     [ ]     [ ]     [ ]
+[ ]     [ ]     [ ]     [ ]     [ ]
+[ ]     [ ]     [ ]     [ ]     [ ]
+r-Ram   r-Ram   r-Ram   r-Ram   r-Ram
+r-Xor   r-Biz   r-Sau   r-Biz   r-Tor
