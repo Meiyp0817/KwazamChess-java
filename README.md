@@ -60,64 +60,64 @@ The **Singleton Pattern** ensures that a class has only one instance, providing 
 ## Folder Structure
 
 .
-│ Main.java
-│ README.md
+│   Main.java
+│   README.md
 │
 ├───Assignment_Report
-│ Assignment.pdf
-│ Explain Idea logic.docx
-│ TT9L_Group G_Assignment_Report.pdf  
+│   │   Assignment.pdf
+│   │   Explain Idea logic.docx
+│   │   TT9L_Group G_Assignment_Report.pdf  
 │
 ├───audio
-│ win1.wav
-│ win2.wav
+│   │   win1.wav
+│   │   win2.wav
 │
 ├───Controller
-│ ChessController.java
+│   │   ChessController.java
 │
 ├───image
-│ b-BizPiece.png
-│ b-RamPiece.png
-│ b-SauPiece.png
-│ b-TorPiece.png
-│ b-XorPiece.png
-│ Logo.png
-│ r-BizPiece.png
-│ r-RamPiece.png
-│ r-SauPiece.png
-│ r-TorPiece.png
-│ r-XorPiece.png
-│ trophys.png
+│   │   b-BizPiece.png
+│   │   b-RamPiece.png
+│   │   b-SauPiece.png
+│   │   b-TorPiece.png
+│   │   b-XorPiece.png
+│   │   Logo.png
+│   │   r-BizPiece.png
+│   │   r-RamPiece.png
+│   │   r-SauPiece.png
+│   │   r-TorPiece.png
+│   │   r-XorPiece.png
+│   │   trophys.png
 │
 ├───Model
-│ │ Biz.java
-│ │ ChessModel.java
-│ │ KwazamBoard.java
-│ │ KwazamPiece.java
-│ │ Ram.java
-│ │ Sau.java
-│ │ Tor.java
-│ │ Xor.java
-│ │
-│ └───Movement
-│ BizMovement.java
-│ MovementStrategy.java
-│ RamMovement.java
-│ SauMovement.java
-│ TorMovement.java
-│ XorMovement.java
+│   │   Biz.java
+│   │   ChessModel.java
+│   │   KwazamBoard.java
+│   │   KwazamPiece.java
+│   │   Ram.java
+│   │   Sau.java
+│   │   Tor.java
+│   │   Xor.java
+│   │
+│   └───Movement
+│       │   BizMovement.java
+│       │   MovementStrategy.java
+│       │   RamMovement.java
+│       │   SauMovement.java
+│       │   TorMovement.java
+│       │   XorMovement.java
 │
 ├───Save_game
-│ saved.txt
+│   │   saved.txt
 │
 └───View
-│ ChessBoard.java
-│ ChessMenu.java
-│ ChessMenuBar.java
-│ ChessPiece.java
-│ ChessView.java
-│
-└───Dialog
-GameOverDialog.java
-QuitDialog.java
+    │   ChessBoard.java
+    │   ChessMenu.java
+    │   ChessMenuBar.java
+    │   ChessPiece.java
+    │   ChessView.java
+    │
+    └───Dialog
+        │   GameOverDialog.java
+        │   QuitDialog.java
 "# KwazamChess-java" 
